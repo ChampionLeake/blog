@@ -108,6 +108,6 @@ If you have any questions regarded to anything related to this article, you can 
 I would like to thank all of the following:
 * [Jhynjhiruu](https://github.com/Jhynjhiruu) - Your friendly neighbourhood Grammarly™. Big thanks for improving the grammar (note: there's only so much that can be done; you should have seen this before I started!).
 * [@AcidSnakeDev](https://twitter.com/AcidSnakeDev), [@freakler94](https://twitter.com/freakler94), [@qwikrazor87](https://twitter.com/qwikrazor87) - Inspiriation on Sony PSP (PS1-mini hacking)
-* [St4rkDev](htttps://twitter.com/St4rkDev) - Helpful friend in using integer overflows as a way to take over some registers
+* [St4rkDev](https://twitter.com/St4rkDev) - Helpful friend in using integer overflows as a way to take over some registers
 * Everyone else who contributed to giving me helpful advice
 If you're not on this list and I forgot to add you, let me know.
