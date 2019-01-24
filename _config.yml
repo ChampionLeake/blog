@@ -1,27 +1,20 @@
-title:            Site Title
-description:      Describe your website here.
+title:            ChampionLeake's Blog
+description:      Read all of the reverse-engineering articles regarding console hacking.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url:              https://championleake.github.io/blog/
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           ChampionLeake
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Reverse engineerer, game developer, console hacker, animator, and a musician."
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:        ChampionLeake79       
+  github:         ChampionLeake      
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
