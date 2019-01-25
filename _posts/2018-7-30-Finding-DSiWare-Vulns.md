@@ -13,7 +13,7 @@ I noticed that there were some questions about how some reverse-engineers or hac
 But today, I wanted to explain how you could find vulnerabilities in DSiWare applications, as well as saving people time from not having to ask whether a game is vulnerable or not. Plus, I think this could be a good introduction to learn how to get into exploiting applications or games. Without further ado, let's get started :D
 
 # Things to know:
-To get things out of the way, you need know some things before you get started.
+To get things out of the way, you need to know some things before you get started.
 * A crash isn't necessarily exploitable. Of course, a crash might be exploitable, but if it doesn't overwrite parts of the stack registers, it's not likely to be exploitable - but that will be covered later.
 * I'll only be covering stack smashing flaws since they're the easiest to start with and I'm familiar enough with these types of vulnerablities to explain what they are. I suggest that you look up how stack smashing works. There's an overview on this topic over at [CTurt's DS-exploit-finding guide](https://cturt.github.io/DS-exploit-finding.html).
 * You must know that the DSi uses a ARM Processor. R0-R12 are generally based use for calculation and the last 3 (R13 (SP = Stack Pointer), R14 (LR = Link Register), and R15 (PC = Program Counter)) are unique. You can find more details on these registers [here](https://problemkaputt.de/gbatek.htm#armcpuregisterset)!
